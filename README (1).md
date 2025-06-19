@@ -1,4 +1,4 @@
-# AICTE Internship Projects – June 2025 (Trainer Repository)
+# AICTE Internship Projects – June 2025
 
 This repository contains the projects & code for the **AICTE Internship Program Cycle 1** held from **June 16 to July 16, 2025** sponsored from Shell with Edunet Foundation - Skills4Future.
 
