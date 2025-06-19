@@ -53,6 +53,7 @@ The dataset used is included within the respective project folder.
 
 ## Contact
 
+**Intern:** Koti Surekha (Me)
 **Trainer:** Raghunandan M S  
 **From:** Edunet Foundation - Skills4Future
-**Intern:** Koti Surekha (Me) 
+ 
