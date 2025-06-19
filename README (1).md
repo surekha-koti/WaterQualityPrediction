@@ -54,4 +54,5 @@ The dataset used is included within the respective project folder.
 ## Contact
 
 **Trainer:** Raghunandan M S  
-**From:** Edunet Foundation - Skills4Future  
+**From:** Edunet Foundation - Skills4Future 
+**Intern:** Koti Surekha (Me) 
