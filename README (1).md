@@ -24,9 +24,9 @@ This repository contains the project & code for the **AICTE Internship Program C
 
 ---
 
-## Trainer Notes
+## Notes
 
-Each folder represents the progress made on a weekly basis, culminating in a final submission. The internship emphasized hands-on experience with:
+The internship emphasized hands-on experience with:
 
 - Data cleaning and transformation
 - Predictive modeling (regression)
@@ -35,13 +35,13 @@ Each folder represents the progress made on a weekly basis, culminating in a fin
 
 ---
 
-## Datasets
+## Dataset
 
-All datasets used are included within their respective project folders.
+The dataset used is included within the respective project folder.
 
 ---
 
-## Skills Developed by Interns
+## Skills Developed
 
 - Machine Learning (Regression)
 - Time Series Forecasting
